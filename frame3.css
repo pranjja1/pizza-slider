@@ -1,0 +1,75 @@
+.ellipse-div {
+  position: absolute;
+  top: -7.29rem;
+  left: 133.38rem;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 109.94rem;
+  height: 105.06rem;
+}
+.pizza-transparent-background-1-icon6 {
+  position: absolute;
+  top: -6.5rem;
+  left: 81.75rem;
+  width: 105.79rem;
+  height: 104.53rem;
+  object-fit: contain;
+}
+.pizza-transparent-background-1-icon7,
+.th-removebg-preview-2-icon3 {
+  position: absolute;
+  top: 67.06rem;
+  left: 7rem;
+  width: 28.13rem;
+  height: 30.69rem;
+  object-fit: cover;
+}
+.th-removebg-preview-2-icon3 {
+  top: 73.06rem;
+  left: 59.56rem;
+  width: 21.63rem;
+  height: 18.63rem;
+}
+.pepperoni-pizza-removebg-previ-icon6,
+.th-removebg-preview-4-icon3 {
+  position: absolute;
+  top: 73.06rem;
+  left: 82.75rem;
+  width: 20.88rem;
+  height: 18.63rem;
+  object-fit: cover;
+}
+.th-removebg-preview-4-icon3 {
+  left: 39.19rem;
+  width: 18.81rem;
+  cursor: pointer;
+}
+.mushroom,
+.pizza3 {
+  position: absolute;
+  font-weight: 800;
+}
+.pizza3 {
+  top: 5.19rem;
+  left: -9.12rem;
+  display: inline-block;
+  width: 53.25rem;
+  height: 28rem;
+}
+.mushroom {
+  top: 21.06rem;
+  left: 10.56rem;
+  color: #f11a1a;
+}
+.ellipse-wrapper {
+  position: relative;
+  background-color: var(--color-blanchedalmond);
+  width: 100%;
+  height: 101rem;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: right;
+  font-size: var(--font-size-131xl);
+  color: var(--color-black);
+  font-family: var(--font-inknut-antiqua);
+}
