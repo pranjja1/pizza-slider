@@ -1,0 +1,103 @@
+.frame-child {
+  position: absolute;
+  top: -0.67rem;
+  left: 243.54rem;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 109.94rem;
+  height: 105.06rem;
+  transform: rotate(93.19deg);
+  transform-origin: 0 0;
+}
+.pizza-transparent-background-1-icon {
+  position: absolute;
+  top: -55.27rem;
+  left: 138.82rem;
+  width: 103.35rem;
+  height: 105.83rem;
+  object-fit: contain;
+}
+.pizza-transparent-background-1-icon1 {
+  position: absolute;
+  top: 71.69rem;
+  left: 6.69rem;
+  width: 21.69rem;
+  height: 21.38rem;
+  object-fit: cover;
+  cursor: pointer;
+}
+.th-removebg-preview-2-icon {
+  position: absolute;
+  top: 67.69rem;
+  left: 72.25rem;
+  width: 30.69rem;
+  height: 28.56rem;
+  object-fit: cover;
+}
+.pepperoni-pizza-removebg-previ-icon,
+.th-removebg-preview-4-icon {
+  position: absolute;
+  top: 71.63rem;
+  left: 48.75rem;
+  width: 23.5rem;
+  height: 21.56rem;
+  object-fit: cover;
+}
+.th-removebg-preview-4-icon {
+  top: 72.55rem;
+  left: 28.38rem;
+  width: 20.13rem;
+  height: 19.13rem;
+  cursor: pointer;
+}
+.th-removebg-preview-5-icon {
+  position: absolute;
+  top: 9.36rem;
+  left: 196.16rem;
+  width: 87.2rem;
+  height: 86.92rem;
+  object-fit: contain;
+}
+.pepperoni-pizza-removebg-previ-icon1,
+.th-removebg-preview-5-icon1 {
+  position: absolute;
+  top: 59.23rem;
+  left: 137.83rem;
+  width: 94.41rem;
+  height: 93.84rem;
+  object-fit: contain;
+}
+.th-removebg-preview-5-icon1 {
+  top: 1.79rem;
+  left: 87.39rem;
+  width: 96.4rem;
+  height: 93.19rem;
+}
+.capsicum,
+.pizza {
+  position: absolute;
+  font-weight: 800;
+}
+.pizza {
+  top: 5.19rem;
+  left: -9.12rem;
+  display: inline-block;
+  width: 53.25rem;
+  height: 28rem;
+}
+.capsicum {
+  top: 19.19rem;
+  left: 12.69rem;
+  color: #f62d2d;
+}
+.ellipse-parent {
+  position: relative;
+  background-color: var(--color-blanchedalmond);
+  width: 100%;
+  height: 101rem;
+  overflow: hidden;
+  text-align: right;
+  font-size: var(--font-size-131xl);
+  color: var(--color-black);
+  font-family: var(--font-inknut-antiqua);
+}
