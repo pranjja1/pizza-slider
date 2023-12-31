@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@800&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inknut-antiqua: "Inknut Antiqua";
+
+  /* font sizes */
+  --font-size-131xl: 9.38rem;
+
+  /* Colors */
+  --color-blanchedalmond: #f9ebc7;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+}
